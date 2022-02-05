@@ -35,7 +35,7 @@ export default function Cart() {
                       </div>
                       <div>{item.title}</div>
                       <div>{item.price}</div>
-                      <div>Quantity ({item.quantity})</div>
+                      <div>Quantity({item.quantity})</div>
                         <div>
                           <button 
                           className='button__less'
